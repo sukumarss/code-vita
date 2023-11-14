@@ -1,3 +1,4 @@
+//https://code.letuscrack.com/forest-fire-tcs-codevita/
 import java.util.Scanner;
 
 public class ForestFire {
