@@ -14,9 +14,8 @@ public class ForestFire {
             return;
         }
 
-        t[r][s] = -1; // Marking the cell as visited
+        t[r][s] = -1;
 
-        // Check all eight adjacent cells
         int[] ap = {-1, -1, -1, 0, 0, 1, 1, 1};
         int[] bp = {-1, 0, 1, -1, 1, -1, 0, 1};
 
